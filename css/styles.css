@@ -372,7 +372,7 @@ margin-top:25px;
  text-align:center;
  margin: 0;
 padding: 0;
-font-size: 3.5em;
+font-size: 1.5em;
 font-weight: 700;
 letter-spacing: .1em;
 line-height: 1em;
@@ -381,7 +381,7 @@ text-transform: uppercase;
 }
 .banner-content header p{
  text-align:center;
- font-size: 1em;
+ font-size: 0.5em;
 margin-bottom: 5px;
 padding: 0 8px;
 letter-spacing: .1em;
